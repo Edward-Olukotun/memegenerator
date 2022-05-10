@@ -1,0 +1,26 @@
+.nav {
+  height: 65px;
+  width: 550px;
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+}
+.first {
+  display: flex;
+}
+.first img {
+  margin-left: 27px;
+}
+.first p {
+  margin-left: 125px;
+  width: 189px;
+  height: 14px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: right;
+  color: #ffffff;
+  margin-top: 24px;
+  margin-bottom: 26px;
+  margin-right: 37px;
+}
